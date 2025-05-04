@@ -25,3 +25,7 @@ Click the Figma link below.
 Interact with the clickable frames by using your mouse or touch (on mobile).
 
 Explore the symptom checker, medicine finder, appointment booking, and emergency services flows.
+
+Links
+
+Figma ([https://www.figma.com/proto/abc123XYZ/health-app-prototype?type=design&node-id=1%3A2&mode=design&t=abcxyz123456](https://www.figma.com/design/Td0n63aOdlwioC9173ZZLR/HCI-Final?node-id=0-1&t=HOBiHISRCOPswl2e-1))
